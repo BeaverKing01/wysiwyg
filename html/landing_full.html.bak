@@ -1,0 +1,97 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <!-- InstanceBegin template="/Templates/Inedx_full_width.dwt" codeOutsideHTMLIsLocked="false" -->
+  <head>
+    <meta http-equiv="content-type" content="application/xhtml+xml; charset=utf-8" />
+    <title>wysiwyg Training Page</title>
+    <link media="screen" type="text/css" rel="stylesheet" link="" href="../css/styles2.css" />
+  </head>
+  <body>
+    <div id="wrapper">
+      <div id="container">
+        <div id="logo"> <img src="../pics/banner/shop_banner.jpg" /> </div>
+        <div id="topnav">
+          <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#.html">Test Page 1</a></li>
+            <li><a href="#.html">Test Page 2</a></li>
+            <li><a href="#.html">Test Page 3</a></li>
+            <li><a href="#.html">Test Page 4</a></li>
+            <li><a href="#.html">Test Page 5</a></li>
+          </ul>
+        </div>
+        <h1 class="title">Welcome to Warwicks "wysiwyg" Training Page</h1>
+        <div id="full"><!-- InstanceBeginEditable name="mainbody1" -->
+          <p> </p>
+          <p><b>Johann Sebastian Bach</b><sup class="reference" id="cite_ref-1"><a
+                href="http://en.wikipedia.org/wiki/Johann_Sebastian_Bach#cite_note-1"><span>[</span>1<span>]</span></a></sup>
+            (31 March <small>[<a title="Old Style and New Style dates" href="http://en.wikipedia.org/wiki/Old_Style_and_New_Style_dates">O.S.</a>
+              21 March]</small> 1685 – 28 July 1750) was a German composer, <a
+              title="Organist" href="http://en.wikipedia.org/wiki/Organist">organist</a>,
+            <a title="Harpsichordist" href="http://en.wikipedia.org/wiki/Harpsichordist">harpsichordist</a>,
+            <a class="mw-redirect" title="Violist" href="http://en.wikipedia.org/wiki/Violist">violist</a>,
+            and <a title="Violin" href="http://en.wikipedia.org/wiki/Violin">violinist</a>
+            of the <a title="Baroque music" href="http://en.wikipedia.org/wiki/Baroque_music">Baroque
+              period</a>. He enriched established German styles through his
+            skill in <a title="Counterpoint" href="http://en.wikipedia.org/wiki/Counterpoint">counterpoint</a>,
+            <a title="Harmonic" href="http://en.wikipedia.org/wiki/Harmonic">harmonic</a>
+            and <a title="Motif (music)" href="http://en.wikipedia.org/wiki/Motif_%28music%29">motivic</a>
+            organisation, and the adaptation of rhythms, forms, and textures
+            from abroad, particularly from Italy and France. <a title="List of compositions by Johann Sebastian Bach"
+              href="http://en.wikipedia.org/wiki/List_of_compositions_by_Johann_Sebastian_Bach">Bach's
+              compositions</a> include the <a title="Brandenburg concertos" href="http://en.wikipedia.org/wiki/Brandenburg_concertos"><i>Brandenburg
+                Concertos</i></a>, the <a title="Mass in B minor" href="http://en.wikipedia.org/wiki/Mass_in_B_minor">Mass
+              in B minor</a>, the <i><a title="The Well-Tempered Clavier" href="http://en.wikipedia.org/wiki/The_Well-Tempered_Clavier">The
+                Well-Tempered Clavier</a></i>, two <a title="Passions (Bach)" href="http://en.wikipedia.org/wiki/Passions_%28Bach%29">Passions</a>,
+            keyboard works, and more than 300 <a title="List of Bach cantatas"
+              href="http://en.wikipedia.org/wiki/List_of_Bach_cantatas">cantatas</a>,
+            of which nearly 100 cantatas have been lost to posterity.<sup class="reference"
+              id="cite_ref-George_Stauffer_2014.2C_p._24_2-0"><a href="http://en.wikipedia.org/wiki/Johann_Sebastian_Bach#cite_note-George_Stauffer_2014.2C_p._24-2"><span>[</span>2<span>]</span></a></sup>
+            His music is revered for its intellectual depth, technical command,
+            and artistic beauty.</p>
+          <p>Bach was born in <a title="Eisenach" href="http://en.wikipedia.org/wiki/Eisenach">Eisenach</a>,
+            <a title="Saxe-Eisenach" href="http://en.wikipedia.org/wiki/Saxe-Eisenach">Saxe-Eisenach</a>,
+            into a great musical <a title="Bach family" href="http://en.wikipedia.org/wiki/Bach_family">family</a>;
+            his father, <a title="Johann Ambrosius Bach" href="http://en.wikipedia.org/wiki/Johann_Ambrosius_Bach">Johann
+              Ambrosius Bach</a>, was the director of the town musicians, and
+            all of his uncles were professional musicians. His father probably
+            taught him to play violin and harpsichord, and his brother, <a title="Johann Christoph Bach (1671–1721)"
+              href="http://en.wikipedia.org/wiki/Johann_Christoph_Bach_%281671%E2%80%931721%29">Johann
+              Christoph Bach</a>, taught him the clavichord and exposed him to
+            much contemporary music.<sup class="reference" id="cite_ref-wolff19_3-0"><a
+                href="http://en.wikipedia.org/wiki/Johann_Sebastian_Bach#cite_note-wolff19-3"><span>[</span>3<span>]</span></a></sup><sup
+              class="reference" id="cite_ref-wolff46_4-0"><a href="http://en.wikipedia.org/wiki/Johann_Sebastian_Bach#cite_note-wolff46-4"><span>[</span>4<span>]</span></a></sup>
+            Apparently at his own initiative, Bach attended St Michael's School
+            in <a title="Lüneburg" href="http://en.wikipedia.org/wiki/L%C3%BCneburg">Lüneburg</a>
+            for two years. After graduating, he held several musical posts
+            across Germany: he served as <a title="Kapellmeister" href="http://en.wikipedia.org/wiki/Kapellmeister">Kapellmeister</a>
+            (director of music) to <a title="Leopold, Prince of Anhalt-Köthen"
+              href="http://en.wikipedia.org/wiki/Leopold,_Prince_of_Anhalt-K%C3%B6then">Leopold,
+              Prince of Anhalt-Köthen</a>, <a title="Cantor (church)" href="http://en.wikipedia.org/wiki/Cantor_%28church%29">Cantor</a>
+            of <a title="Thomasschule zu Leipzig" href="http://en.wikipedia.org/wiki/Thomasschule_zu_Leipzig">Thomasschule</a>
+            in Leipzig, and Royal Court Composer to <a class="mw-redirect" title="August III"
+              href="http://en.wikipedia.org/wiki/August_III">August III</a>.<sup
+              class="reference" id="cite_ref-baroquemusic_5-0"><a href="http://en.wikipedia.org/wiki/Johann_Sebastian_Bach#cite_note-baroquemusic-5"><span>[</span>5<span>]</span></a></sup><sup
+              class="reference" id="cite_ref-Miles_6-0"><a href="http://en.wikipedia.org/wiki/Johann_Sebastian_Bach#cite_note-Miles-6"><span>[</span>6<span>]</span></a></sup>
+            Bach's health and vision declined in 1749, and he died on 28 July
+            1750. Modern historians believe that his death was caused by a
+            combination of stroke and pneumonia.<sup class="reference" id="cite_ref-JSBStrokes_7-0"><a
+                href="http://en.wikipedia.org/wiki/Johann_Sebastian_Bach#cite_note-JSBStrokes-7"><span>[</span>7<span>]</span></a></sup><sup
+              class="reference" id="cite_ref-BofMLA_8-0"><a href="http://en.wikipedia.org/wiki/Johann_Sebastian_Bach#cite_note-BofMLA-8"><span>[</span>8<span>]</span></a></sup><sup
+              class="reference" id="cite_ref-pathography_9-0"><a href="http://en.wikipedia.org/wiki/Johann_Sebastian_Bach#cite_note-pathography-9"><span>[</span>9<span>]</span></a></sup></p>
+          <p>Bach's abilities as an organist were highly respected throughout
+            Europe during his lifetime, although he was not widely recognised as
+            a great composer until a revival of interest and performances of his
+            music in the first half of the 19th century. He is now generally
+            regarded as one of the main composers of the Baroque period, and as
+            one of the greatest composers of all time.<sup class="reference" id="cite_ref-10"><a
+                href="http://en.wikipedia.org/wiki/Johann_Sebastian_Bach#cite_note-10"><span>[</span>10<span>]</span></a></sup></p>
+          <!-- InstanceEndEditable --></div>
+        <div id="footer">
+          <p>All rights reserved. Built by Warwick Levey</p>
+        </div>
+      </div>
+    </div>
+  </body>
+  <!-- InstanceEnd -->
+</html>

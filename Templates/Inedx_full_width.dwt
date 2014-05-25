@@ -1,0 +1,42 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>wysiwyg Training Page</title>
+<link href="../css/styles2.css" link rel="stylesheet" type="text/css" media="screen">
+</head>
+
+<body>
+
+<div id="wrapper">
+	<div id="container">
+    	<div id="logo">
+        	<img src="../pics/banner/shop_banner.jpg"/>
+        </div>
+        	<div id ="topnav">
+        	<ul>
+        	 <li><a href="#">Home</a></li>
+             <li><a href="#.html">Test Page 1</a></li>
+             <li><a href="#.html">Test Page 2</a></li>
+             <li><a href="#.html">Test Page 3</a></li>
+             <li><a href="#.html">Test Page 4</a></li>
+             <li><a href="#.html">Test Page 5</a></li>
+            </ul>
+        </div>
+        <h1 class="title">Welcome to Warwicks "wysiwyg" Training Page</h1>
+<div id="full"><!-- TemplateBeginEditable name="mainbody1" -->
+  <p>Leopold, Prince of Anhalt-Köthen hired Bach to serve as his Kapellmeister (director of music) in 1717. Prince Leopold, himself a musician, appreciated Bach's talents, paid him well, and gave him considerable latitude in composing and performing. The prince was Calvinist and did not use elaborate music in his worship; accordingly, most of Bach's work from this period was secular,[36] including the orchestral suites, the six suites for solo cello, the sonatas and partitas for solo violin, and the Brandenburg concertos.[37] Bach also composed secular cantatas for the court such as Die Zeit, die Tag und Jahre macht, BWV 134a. At least one significant influence upon Bach's musical development during his years with the Prince are recorded by Stauffer as Bach's "complete embrace of dance music, perhaps the most important influence on his mature style other than his adoption of Vivaldi's music in Weimar."[2]
+    
+    Despite being born in the same year and only about 80 miles (130 km) apart, Bach and Handel never met. In 1719 Bach made the 20-mile (32 km) journey from Köthen to Halle with the intention of meeting Handel, however Handel had recently departed the city.[38] In 1730, Bach's son Friedmann travelled to Halle to invite Handel to visit the Bach family in Leipzig, but the visit did not come to pass.[39]
+    
+    On 7 July 1720, while Bach was abroad with Prince Leopold, Bach's first wife suddenly died. The following year, he met Anna Magdalena Wilcke, a young, highly gifted soprano 17 years his junior, who performed at the court in Köthen; they married on 3 December 1721.[40] Together they had 13 more children, six of whom survived into adulthood: Gottfried Heinrich, Johann Christoph Friedrich, and Johann Christian, all of whom became significant musicians; Elisabeth Juliane Friederica (1726–81), who married Bach's pupil Johann Christoph Altnikol; Johanna Carolina (1737–81); and Regina Susanna (1742–1809).[41]</p>
+<!-- TemplateEndEditable --></div>
+        <div id="footer">
+        	<p>All rights reserved. Built by Warwick Levey</p>
+        
+        </div>
+    </div>
+
+</div>
+</body>
+</html>

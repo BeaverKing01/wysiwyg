@@ -1,0 +1,7 @@
+Things to cover:
+
+1)Changing Pics quickly
+2)Content
+3)Tables
+4)Building in templates vs table design
+5)BlueGriffon vs DreamWeaver
